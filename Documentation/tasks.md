@@ -4,3 +4,4 @@
 - [ ] [car-app](../Assignments/car-app/README.md)
 - [ ] [general-app](../Assignments/general-app/README.md)
 - [ ] [product-db](../Assignments/product-db/README.md)
+- [ ] [jdbc-crud](../Assignments/jdbc-crud/README.md)
