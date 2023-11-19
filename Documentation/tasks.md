@@ -1,3 +1,3 @@
 # Tarefas
 
-- [] Ajustar README do [projeto de carro automático](../Assignments/automatic-car/README.md)
+- [x] Ajustar README do [projeto de carro automático](../Assignments/automatic-car/README.md)
