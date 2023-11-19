@@ -11,5 +11,6 @@ Programação orientada a objetos
 - [Atributos e métodos](./Contents/Atributos-Métodos/)
 - [Polimorfismo](./Contents/Polimorfismo/)
 - [Relacionamentos](./Contents/Relacionamentos/)
+- [Coleções](./Contents/Coleções/)
 - [Trabalhos e avaliações](./Assignments/)
 - [Tarefas](./Documentation/tasks.md)
