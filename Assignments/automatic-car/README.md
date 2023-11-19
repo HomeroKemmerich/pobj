@@ -38,3 +38,6 @@ decrementar a marcha e setar rpm para 4000.
   - Ao inserir um carro, ler a placa do usuário, instanciar o objeto e inicializar o objeto pelo seu método construtor, conforme regras estabelecidas.
   - Permitir ao usuário poder realizar as operações de ligar, desligar, acelerar e desacelerar, sempre mostrando o estado atual do objeto após cada operação.
 
+---
+
+[Correção](../../Contents/Aplicações/Code/CarroAutomaticoDesktop/)
