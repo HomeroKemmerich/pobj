@@ -5,3 +5,4 @@
 - [ ] [general-app](../Assignments/general-app/README.md)
 - [ ] [product-db](../Assignments/product-db/README.md)
 - [ ] [jdbc-crud](../Assignments/jdbc-crud/README.md)
+- [ ] [relations](../Assignments/relations/README.md)
